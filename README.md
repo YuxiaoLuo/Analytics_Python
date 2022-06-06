@@ -14,4 +14,4 @@ writing functions, debugging, and organizing and commenting code. Basic knowledg
 Please follow the official syllabus and find the folder for each week. IPython Notebook file is included in each weekly folder. 
 
 ## How to download Jupter Notebook File from this Github Repo
-Click this [instruction](https://github.com/YuxiaoLuo/Intro_Python/blob/main/How_to_download_JupyterNotebook.md).
+Click this [instruction](https://github.com/YuxiaoLuo/Analytics_Python/blob/main/How_to_download_JupyterNotebook.md).
